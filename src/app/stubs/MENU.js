@@ -1,7 +1,7 @@
-global.COURSES = [
+global.MENU = [
   {
     id: 0,
-    name: 'React Fundamentals',
+    name: 'Игровой Зал',
     grade: 'B',
     announcements: [
       {
@@ -23,7 +23,7 @@ global.COURSES = [
 
   {
     id: 1,
-    name: 'Reusable React Components',
+    name: 'Новости',
     grade: 'A-',
     announcements: [
       {

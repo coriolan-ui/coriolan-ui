@@ -6,16 +6,17 @@ const light = '#fff'
 const styles = {}
 
 styles.wrapper = {
-  padding: '10px 20px',
   overflow: 'hidden',
   background: dark,
-  color: light
+  color: light,
+  width: '300px',
+  float: 'left'
 }
 
 styles.link = {
   padding: 11,
   color: light,
-  fontWeight: 200
+  display: 'block'
 }
 
 styles.activeLink = {
@@ -32,7 +33,7 @@ class GlobalNav extends React.Component {
   }
 
   logOut() {
-    alert('log out')
+    console.log('Logouting');
   }
 
   render() {
@@ -40,15 +41,25 @@ class GlobalNav extends React.Component {
 
     return (
       <div style={styles.wrapper}>
-        <div style={{ float: 'left' }}>
-          <Link to="/" style={styles.link}>Home</Link>{' '}
-          <Link to="/calendar" style={styles.link} activeStyle={styles.activeLink}>Calendar</Link>{' '}
-          <Link to="/grades" style={styles.link} activeStyle={styles.activeLink}>Grades</Link>{' '}
-          <Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Messages</Link>{' '}
-        </div>
-        <div style={{ float: 'right' }}>
-          <Link style={styles.link} to="/profile">{user.name}</Link> <button onClick={this.logOut}>log out</button>
-        </div>
+
+        <ul style={{ 
+          listStyle: 'none',
+          margin: 0,
+          padding: 0
+         }} >
+          <li>
+            <Link to="/profile" style={styles.link} activeStyle={styles.activeLink}>{user.name}</Link>
+            <button onClick={this.logOut}>Выйти</button>
+          </li>
+          <li><Link to="/calendar" style={styles.link} activeStyle={styles.activeLink}>Игровой Зал</Link></li>
+          <li><Link to="/grades" style={styles.link} activeStyle={styles.activeLink}>Лотерея</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Турниры</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Акции</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Магазин фишек</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Новости</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Видео</Link></li>
+          <li><Link to="/messages" style={styles.link} activeStyle={styles.activeLink}>Скачать plug-in</Link></li>
+        </ul>
       </div>
     )
   }
@@ -56,8 +67,8 @@ class GlobalNav extends React.Component {
 
 GlobalNav.defaultProps = {
   user: {
-    id: 1,
-    name: 'Ryan Florence'
+    id: '566039bb9b5e3676278b456e',
+    name: 'Питухович'
   }
 }
 

@@ -3,7 +3,7 @@ import React from 'react'
 import { render } from 'react-dom'
 import { createHistory, useBasename } from 'history'
 import { Router } from 'react-router'
-import stubbedCourses from './stubs/COURSES'
+import stubbedCourses from './stubs/MENU'
 
 const history = useBasename(createHistory)({
   basename: '/'

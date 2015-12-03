@@ -1,10 +1,10 @@
-/*globals COURSES:true */
+/*globals MENU:true */
 import React from 'react'
 import { Link } from 'react-router'
 
 class AnnouncementsSidebar extends React.Component {
   render() {
-    let { announcements } = COURSES[this.props.params.courseId]
+    let { announcements } = MENU[this.props.params.courseId]
 
     return (
       <div>

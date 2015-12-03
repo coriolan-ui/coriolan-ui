@@ -1,9 +1,9 @@
-/*globals COURSES:true */
+/*globals MENU:true */
 import React from 'react'
 
 class Grades extends React.Component {
   render() {
-    let { assignments } = COURSES[this.props.params.courseId]
+    let { assignments } = MENU[this.props.params.courseId]
 
     return (
       <div>

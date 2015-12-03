@@ -1,10 +1,10 @@
-/*globals COURSES:true */
+/*globals MENU:true */
 import React from 'react'
 
 class Assignment extends React.Component {
   render() {
     let { courseId, assignmentId } = this.props.params
-    let { title, body } = COURSES[courseId].assignments[assignmentId]
+    let { title, body } = MENU[courseId].assignments[assignmentId]
 
     return (
       <div>
