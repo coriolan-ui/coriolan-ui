@@ -1,19 +1,15 @@
 {
-  "name": "herbal-webpack",
+  "name": "coriolan-webpack",
   "version": "0.1.0",
   "description": "web instrument",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coriolanix/coriolan-webpack.git"
+  },
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ihororlovskyi/herbal-webpack.git"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rackt/redux/issues"
-  },
-  "homepage": "http://rackt.github.io/redux",
   "dependencies": {
     "history": "^1.9.0",
     "humps": "^0.6.0",
@@ -27,9 +23,7 @@
     "redux": "^3.0.0",
     "redux-logger": "^2.0.2",
     "redux-router": "^1.0.0-beta3",
-    "redux-thunk": "^0.1.0"
-  },
-  "devDependencies": {
+    "redux-thunk": "^0.1.0",
     "babel-core": "^5.6.18",
     "babel-loader": "^5.1.4",
     "babel-plugin-react-transform": "^1.1.0",
