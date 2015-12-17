@@ -1,42 +1,58 @@
 <!DOCTYPE html>
 <html>
-  <head>
 
-    <title>Herbal Webpack</title>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Coriolan Webpack</title>
+  <meta name="description" content="Web instrument with react">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <style>
-      body {
-        font: 400 14px/20px 'Roboto', sans-serif;
-        background: #ebebeb;
-        margin: 0;
-      }
-      a {
-        color: hsl(200, 50%, 40%);
-        text-decoration: none;
-      }
-    </style>
+  <style>
+    body {
+      font: 400 14px/20px 'Roboto', sans-serif;
+      background: #ebebeb;
+      margin: 0;
+    }
+    a {
+      color: hsl(200, 50%, 40%);
+      text-decoration: none;
+    }
+  </style>
+</head>
 
-  </head>
-  <body>
+<body>
+  <div id="app" />
 
-    <div id="app" />
+  <script>
+    var WebFontConfig = {
+      google: { families: [ 
+        'Roboto:400,300,500:latin',
+        'PT+Serif:400italic:latin,cyrillic',
+        'Material+Icons'
+      ] }
+    };
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
 
-    <script>
-      var WebFontConfig = {
-        google: { families: [ 'Roboto:400,300,500:latin' ] }
-      };
-      (function() {
-        var wf = document.createElement('script');
-        wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
-        '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
-        wf.type = 'text/javascript';
-        wf.async = 'true';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(wf, s);
-      })();
-    </script>
+  <script src="/static/bundle.js"></script>
 
-    <script src="/static/bundle.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-71512913-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
 
-  </body>
 </html>
