@@ -1,0 +1,22 @@
+.hero {
+  padding: 150px 0;
+  background: #fff;
+
+  svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    margin: 0 auto 60px;
+  }
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #373737;
+    margin: 0;
+  }
+  h2 {
+    font-family: 'PT Serif', serif;
+    color: #9F9F9F;
+    margin: 0;
+  }
+}

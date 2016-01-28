@@ -1,0 +1,64 @@
+---
+layout: default
+permalink: /
+---
+
+<div class="hero">
+  {% include svg/coriolan-ui-logo.svg %}
+  <h1>Coriolan UI</h1>
+  <h2>front-end framework</h2>
+</div>
+
+<main>
+<h3>Mixins</h3>
+
+<section>
+  <h4>Clearfix</h4>
+
+  <h5>SCSS</h5>
+
+  <pre>
+    <code>
+.container {
+  @include clearfix;
+}</code>
+  </pre>
+
+  <h5>CSS Output</h5>
+
+  <pre>
+    <code>
+.container::after {
+  clear: both;
+  content: "";
+  display: table;
+}</code>
+  </pre>
+</section>
+
+<section>
+  <h4>Ellipsis</h4>
+
+  <h5>SCSS</h5>
+
+  <pre>
+    <code>
+.title {
+  @include ellipsis;
+}</code>
+  </pre>
+
+  <h5>CSS Output</h5>
+
+  <pre>
+    <code>
+.title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: block;
+}</code>
+  </pre>
+</section>
+
+</main>

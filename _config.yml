@@ -1,0 +1,8 @@
+baseurl:
+
+exclude: ['.gitignore', 'package.json', 'README.md']
+
+sass:
+  sass_dir: assets/css
+  style: :expanded
+

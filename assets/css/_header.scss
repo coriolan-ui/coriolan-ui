@@ -1,0 +1,30 @@
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 1px solid rgba(#000, .1);
+  padding: 10px 5%;
+  background: #fff;
+  box-sizing: border-box;
+
+  .logo {
+    float: left;
+    line-height: 30px;
+
+    svg {
+      width: auto;
+      height: 30px;
+      margin-right: 10px;
+      float: left;
+    }
+    span {
+      float: left;
+    }
+  }
+
+  .github {
+    float: right;
+    line-height: 30px;
+  }
+}
