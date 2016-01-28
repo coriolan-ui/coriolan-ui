@@ -1,16 +1,5 @@
-# Herbal Webpack
+# Coriolan UI
 
-Developing of web instrument
+front-end framework
 
-### Used
-
-- [react.js](http://facebook.github.io/react/index.html)
-- [react-router](https://github.com/rackt/react-router)
-- [material-ui](http://www.material-ui.com/)
-
-### Run
-
-```
-npm install
-npm start
-```
+[coriolan-ui.github.io](https://coriolan-ui.github.io)

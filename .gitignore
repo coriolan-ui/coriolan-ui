@@ -1,3 +1,6 @@
-dist
+.DS_Store
+.idea
+.sass-cache
+_site
 node_modules
 npm-debug.log
