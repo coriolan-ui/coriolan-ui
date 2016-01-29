@@ -3,28 +3,46 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  border: 1px solid rgba(#000, .1);
   padding: 10px 5%;
-  background: #fff;
+  background: #D43324;
   box-sizing: border-box;
 
   .logo {
     float: left;
     line-height: 30px;
+    color: #fff;
 
     svg {
       width: auto;
       height: 30px;
       margin-right: 10px;
       float: left;
+
+      path {
+        fill: #fff;
+      }
     }
     span {
       float: left;
+      font-family: 'Montserrat', sans-serif;
     }
   }
 
   .github {
     float: right;
     line-height: 30px;
+    color: #fff;
+
+    svg {
+      width: auto;
+      height: 30px;
+      float: left;
+      padding: 8px 0px;
+      box-sizing: border-box;
+
+      path {
+        fill: #fff;
+      }
+    }
   }
 }
