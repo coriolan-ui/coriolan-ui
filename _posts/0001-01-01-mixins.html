@@ -1,6 +1,103 @@
 ---
 layout: default
-permalink: mixins/
+permalink: /mixins/
 ---
 
+<main>
+  <h3>Mixins</h3>
 
+<section>
+  <h4>Clearfix</h4>
+
+  <h5>SCSS</h5>
+
+  <pre>
+    <code>
+.container {
+  @include clearfix;
+}</code>
+  </pre>
+
+  <h5>CSS Output</h5>
+
+  <pre>
+    <code>
+.container::after {
+  clear: both;
+  content: "";
+  display: table;
+}</code>
+  </pre>
+</section>
+
+<section>
+  <h4>Ellipsis</h4>
+
+  <h5>SCSS</h5>
+
+  <pre>
+    <code>
+.title {
+  @include ellipsis;
+}</code>
+  </pre>
+
+  <h5>CSS Output</h5>
+
+  <pre>
+    <code>
+.title {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: block;
+}</code>
+  </pre>
+</section>
+
+<section>
+  <h4>Placeholder</h4>
+
+  <h5>SCSS</h5>
+
+  <pre>
+    <code>
+textarea {
+  width: 100%;
+  font-size: 16px;
+
+  @include placeholder {
+    font-size: 12px;
+  }
+}
+</code>
+  </pre>
+
+  <h5>CSS Output</h5>
+
+  <pre>
+    <code>
+textarea {
+  width: 100%;
+  font-size: 16px;
+}
+
+textarea::-webkit-input-placeholder {
+  font-size: 12px;
+}
+
+textarea::-moz-placeholder {
+  font-size: 12px;
+}
+
+textarea:-moz-placeholder {
+  font-size: 12px;
+}
+
+textarea:-ms-input-placeholder {
+  font-size: 12px;
+}</code>
+  </pre>
+</section>
+
+</main>
