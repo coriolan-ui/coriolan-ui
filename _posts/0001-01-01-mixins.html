@@ -4,100 +4,100 @@ permalink: /mixins/
 ---
 
 <main>
-  <h3>Mixins</h3>
+    <h3>Mixins</h3>
 
 <section>
-  <h4>Clearfix</h4>
+    <h4>Clearfix</h4>
 
-  <h5>SCSS</h5>
+    <h5>SCSS</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 .container {
-  @include clearfix;
+    @include clearfix;
 }</code>
-  </pre>
+    </pre>
 
-  <h5>CSS Output</h5>
+    <h5>CSS Output</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 .container::after {
-  clear: both;
-  content: "";
-  display: table;
+    clear: both;
+    content: "";
+    display: table;
 }</code>
-  </pre>
+    </pre>
 </section>
 
 <section>
-  <h4>Ellipsis</h4>
+    <h4>Ellipsis</h4>
 
-  <h5>SCSS</h5>
+    <h5>SCSS</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 .title {
-  @include ellipsis;
+    @include ellipsis;
 }</code>
-  </pre>
+    </pre>
 
-  <h5>CSS Output</h5>
+    <h5>CSS Output</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 .title {
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  display: block;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    display: block;
 }</code>
-  </pre>
+    </pre>
 </section>
 
 <section>
-  <h4>Placeholder</h4>
+    <h4>Placeholder</h4>
 
-  <h5>SCSS</h5>
+    <h5>SCSS</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 textarea {
-  width: 100%;
-  font-size: 16px;
+    width: 100%;
+    font-size: 16px;
 
-  @include placeholder {
-    font-size: 12px;
-  }
+    @include placeholder {
+        font-size: 12px;
+    }
 }
 </code>
-  </pre>
+    </pre>
 
-  <h5>CSS Output</h5>
+    <h5>CSS Output</h5>
 
-  <pre>
-    <code>
+    <pre>
+        <code>
 textarea {
-  width: 100%;
-  font-size: 16px;
+    width: 100%;
+    font-size: 16px;
 }
 
 textarea::-webkit-input-placeholder {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 textarea::-moz-placeholder {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 textarea:-moz-placeholder {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 textarea:-ms-input-placeholder {
-  font-size: 12px;
+    font-size: 12px;
 }</code>
-  </pre>
+    </pre>
 </section>
 
 </main>
