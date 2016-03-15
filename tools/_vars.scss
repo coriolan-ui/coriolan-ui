@@ -1,6 +1,6 @@
 // Body
-$bodyBg: #ccc url(../img/bg/index.jpg) top center;
-$bodyFont: 400 14px/1.3 Helvetica, Arial, sans-serif;
+$bodyBg: #ccc url(../img/bg/index.jpg) top center !default;
+$bodyFont: 400 14px/1.3 Helvetica, Arial, sans-serif !default;
 
 // Grid
-$gridIndent: 8px;
+$gridIndent: 8px !default;
