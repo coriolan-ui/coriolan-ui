@@ -1,8 +1,0 @@
-@mixin placeholder {
-  $prefixs: ":-webkit-input" ":-moz" "-moz" "-ms-input";
-  @each $placeholder in $prefixs {
-    &:#{$placeholder}-placeholder {
-      @content;
-    }
-  }
-}
