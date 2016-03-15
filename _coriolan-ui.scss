@@ -7,12 +7,14 @@
 @import "mixins/placeholder";
 @import "mixins/ratio";
 
-// Grid
-@import 'tools/grid';
+// Variables
+@import 'tools/vars';
 
 // UI
-@import 'tools/vars';
 @import 'tools/base';
 @import 'tools/directions';
 @import 'tools/buttons';
 @import 'tools/fields';
+
+// Grid
+@import 'tools/grid';
