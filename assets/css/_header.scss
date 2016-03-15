@@ -1,58 +1,58 @@
 header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  padding: 10px 5%;
-  background: #D43324;
-  box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 5%;
+    background: #D43324;
+    box-sizing: border-box;
 
-  .logo {
-    float: left;
-    line-height: 30px;
-    color: #fff;
+    .logo {
+        float: left;
+        line-height: 30px;
+        color: #fff;
 
-    svg {
-      width: auto;
-      height: 30px;
-      margin-right: 10px;
-      float: left;
+        svg {
+            width: auto;
+            height: 30px;
+            margin-right: 10px;
+            float: left;
 
-      path {
-        fill: #fff;
-      }
+            path {
+                fill: #fff;
+            }
+        }
+        span {
+            float: left;
+            font-family: 'Montserrat', sans-serif;
+        }
     }
-    span {
-      float: left;
-      font-family: 'Montserrat', sans-serif;
+
+    .nav {
+        float: left;
+        padding: 0 10px;
+        a {
+            color: #fff;
+            line-height: 30px;
+            padding: 0 10px;
+        }
     }
-  }
 
-  .nav {
-    float: left;
-    padding: 0 10px;
-    a {
-      color: #fff;
-      line-height: 30px;
-      padding: 0 10px;
+    .github {
+        float: right;
+        line-height: 30px;
+        color: #fff;
+
+        svg {
+            width: auto;
+            height: 30px;
+            float: left;
+            padding: 8px 0px;
+            box-sizing: border-box;
+
+            path {
+                fill: #fff;
+            }
+        }
     }
-  }
-
-  .github {
-    float: right;
-    line-height: 30px;
-    color: #fff;
-
-    svg {
-      width: auto;
-      height: 30px;
-      float: left;
-      padding: 8px 0px;
-      box-sizing: border-box;
-
-      path {
-        fill: #fff;
-      }
-    }
-  }
 }

@@ -1,6 +1,6 @@
 baseurl:
 
-exclude: ['.gitignore', 'package.json', 'README.md']
+exclude: ['package.json', 'README.md']
 
 sass:
   sass_dir: assets/css
