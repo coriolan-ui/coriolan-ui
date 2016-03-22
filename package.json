@@ -3,7 +3,7 @@
   "version": "0.1.5",
   "description": "front-end framework",
   "author": "Lucky Labs Design and Front-end teams",
-  "license": "ISC",
+  "license": "MIT",
   "main": "_coriolan-ui.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
