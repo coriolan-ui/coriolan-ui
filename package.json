@@ -16,6 +16,9 @@
     "coriolan",
     "scss"
   ],
+  "dependencies": {
+    "normalize.css": "^4.0.0"
+  },
   "bugs": {
     "url": "https://github.com/coriolan-ui/coriolan-ui/issues"
   },
