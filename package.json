@@ -1,6 +1,6 @@
 {
   "name": "coriolan-ui",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "front-end framework",
   "author": "Lucky Labs Design and Front-end teams",
   "license": "MIT",
@@ -13,10 +13,10 @@
     "url": "https://github.com/coriolan-ui/coriolan-ui"
   },
   "keywords": [
-    "coriolan",
+    "coriolan-ui",
     "scss"
   ],
-  "dependencies": {
+  "peerDependencies": {
     "normalize.css": "^4.0.0"
   },
   "bugs": {
