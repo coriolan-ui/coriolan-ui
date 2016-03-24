@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  background: #dedede;
+  position: relative;
+  color: #373737;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 50px;
+  margin: 0;
+}
+
+a {
+  color: #D43324;
+  text-decoration: none;
+  outline: none;
+}
+
+pre {
+  background: #fff;
+  padding: 20px;
+}
+
+main {
+  text-align: left;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  padding: 0 10px;
+  margin: 40px auto;
+}
+
+section {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 40px 0;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 5%;
+  background: #D43324;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header .logo {
+  float: left;
+  line-height: 30px;
+  color: #fff;
+}
+
+header .logo svg {
+  width: auto;
+  height: 30px;
+  margin-right: 10px;
+  float: left;
+}
+
+header .logo svg path {
+  fill: #fff;
+}
+
+header .logo span {
+  float: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header .nav {
+  float: left;
+  padding: 0 10px;
+}
+
+header .nav a {
+  color: #fff;
+  line-height: 30px;
+  padding: 0 10px;
+}
+
+header .github {
+  float: right;
+  line-height: 30px;
+  color: #fff;
+}
+
+header .github svg {
+  width: auto;
+  height: 30px;
+  float: left;
+  padding: 8px 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header .github svg path {
+  fill: #fff;
+}
+
+.hero {
+  padding: 150px 0;
+  background: #fff;
+  min-height: 100%;
+}
+
+.hero svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 200px;
+  margin: 0 auto 60px;
+}
+
+.hero h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #373737;
+  margin: 0;
+}
+
+.hero h2 {
+  font-family: 'PT Serif', serif;
+  color: #9F9F9F;
+  margin: 0;
+  font-style: italic;
+}
+
+footer {
+  padding: 20px 5%;
+}
