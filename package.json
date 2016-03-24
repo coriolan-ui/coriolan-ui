@@ -1,7 +1,8 @@
 {
   "name": "coriolan-ui",
   "version": "0.1.10",
-  "description": "front-end framework",
+  "description": "Coriolan UI - scss front-end framework",
+  "homepage": "http://coriolan-ui.github.io",
   "author": "Lucky Labs Class 1 Design and Front-end teams",
   "contributors": [
     "Ihor Orlovskyi <ihororlovskyi@gmail.com>",
@@ -10,22 +11,20 @@
   ],
   "license": "MIT",
   "main": "_coriolan-ui.scss",
+  "keywords": [
+    "coriolan",
+    "scss"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/coriolan-ui/coriolan-ui"
   },
-  "keywords": [
-    "coriolan",
-    "scss"
-  ],
-  "dependencies": {
-    "normalize.css": "^4.0.0"
-  },
   "bugs": {
     "url": "https://github.com/coriolan-ui/coriolan-ui/issues"
   },
-  "homepage": "http://coriolan-ui.github.io"
+  "dependencies": {
+    "normalize.css": "^4.0.0"
+  }
 }
