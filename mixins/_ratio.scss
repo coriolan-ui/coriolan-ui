@@ -3,6 +3,7 @@
 @mixin ratio($width, $ratio-width, $ratio-height) {
     width: $width;
     padding-bottom: ($ratio-height / $ratio-width) * $width;
+    position: relative;
 }
 
 // Usage
