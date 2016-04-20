@@ -1,0 +1,77 @@
+// Media
+
+@function translate-media-condition($c) {
+    $condMap: (
+        "S": "(min-width: #{$S})",
+        "M": "(min-width: #{$M})",
+        "L": "(min-width: #{$L})",
+        "XL": "(min-width: #{$XL})",
+    );
+    @return map-get( $condMap, $c );
+}
+
+@mixin media($args...) {
+    $query: "";
+    @each $arg in $args {
+        $op: "";
+        @if ( $query != "" ) {
+            $op: " and ";
+        }
+        $query: $query + $op + translate-media-condition($arg);
+    }
+    @media #{$query}  { @content; }
+}
+
+// Usage
+
+// SCSS
+
+// .media-usage {
+//     background: silver;
+
+//     @include media(S) {
+//         background: yellow;
+//     };
+
+//     @include media(M) {
+//         background: red;
+//     };
+
+//     @include media(L) {
+//         background: green;
+//     };
+
+//     @include media(XL) {
+//         background: blue;
+//     };
+// }
+
+// CSS Output
+
+// .media-usage {
+//     background: silver;
+// }
+
+// @media (min-width: 508px) {
+//     .media-usage {
+//         background: yellow;
+//     }
+// }
+
+// @media (min-width: 754px) {
+//     .media-usage {
+//         background: red;
+//     }
+// }
+
+// @media (min-width: 1054px) {
+//     .media-usage {
+//         background: green;
+//     }
+// }
+
+// @media (min-width: 1300px) {
+//     .media-usage {
+//         background: blue;
+//     }
+// }
