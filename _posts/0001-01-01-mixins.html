@@ -108,4 +108,62 @@ textarea:-ms-input-placeholder {
 }</code></pre>
 </section>
 
+<section>
+    <h4>Media</h4>
+
+    <h5>SCSS</h5>
+
+    <pre><code>
+.media-usage {
+    background: silver;
+
+    @include media(S) {
+        background: yellow;
+    };
+
+    @include media(M) {
+        background: red;
+    };
+
+    @include media(L) {
+        background: green;
+    };
+
+    @include media(XL) {
+        background: blue;
+    };
+}</code></pre>
+
+    <h5>CSS Output</h5>
+
+    <pre><code>
+.media-usage {
+    background: silver;
+}
+
+@media (min-width: 508px) {
+    .media-usage {
+        background: yellow;
+    }
+}
+
+@media (min-width: 754px) {
+    .media-usage {
+        background: red;
+    }
+}
+
+@media (min-width: 1054px) {
+    .media-usage {
+        background: green;
+    }
+}
+
+@media (min-width: 1300px) {
+    .media-usage {
+        background: blue;
+    }
+}</code></pre>
+</section>
+
 </main>
