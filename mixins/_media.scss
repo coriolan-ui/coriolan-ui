@@ -7,7 +7,11 @@
         "L": "(min-width: #{$L})",
         "XL": "(min-width: #{$XL})",
     );
-    @return map-get( $condMap, $c );
+    $result: map-get( $condMap, $c );
+    @if ( $result == null ) {
+        $result: $c;
+    }
+    @return $result;
 }
 
 @mixin media($args...) {
@@ -44,6 +48,10 @@
 //     @include media(XL) {
 //         background: blue;
 //     };
+
+//     @include media("(min-width: 768px) and (max-height: 800px)") {
+//         background: magenta;
+//     };
 // }
 
 // CSS Output
@@ -73,5 +81,11 @@
 // @media (min-width: 1300px) {
 //     .media-usage {
 //         background: blue;
+//     }
+// }
+
+// @media (min-width: 768px) and (max-height: 800px) {
+//     .media-usage {
+//         background: magenta;
 //     }
 // }
