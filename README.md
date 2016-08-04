@@ -2,15 +2,6 @@
 
 scss front-end framework
 
-[coriolan-ui.github.io](https://coriolan-ui.github.io)
+![](https://coriolan-ui.github.io/coriolan-ui-jekyll/assets/img/coriolan-ui-logo.svg)
 
-<img src="http://coriolan-ui.github.io/assets/img/coriolan-ui-logo.svg"
-style="
-    display: block;
-    width: 100%;
-    height: auto;
-    max-width: 240px;
-    padding: 0 20px;
-    margin: 0 auto 60px;
-    box-sizing: border-box;
-">
+[coriolan-ui.github.io](https://coriolan-ui.github.io)
