@@ -1,0 +1,42 @@
+// Clearfix
+
+@mixin clearfix-ie8 {
+    zoom: 1;
+    &::before,
+    &::after {
+        content: ".";
+        display: block;
+        height: 0;
+        overflow: hidden;
+    }
+    &::after {
+        clear: both;
+    }
+
+}
+
+// Usage
+
+// SCSS
+
+// .container {
+//     @include clearfix-ie8;
+// }
+
+// CSS Output
+
+// .container {
+//     zoom: 1;
+// }
+
+// .container::before,
+// .container::after {
+//     content: ".";
+//     display: block;
+//     height: 0;
+//     overflow: hidden;
+// }
+
+// .container::after {
+//     clear: both;
+// }
