@@ -1,6 +1,2 @@
-.idea
-.DS_Store
-node_modules
-.sass-cache
-_site
-npm-debug.log
+node_modules/
+bower_components/
