@@ -1,23 +1,18 @@
 // Dependencies
 @import 'vendor/normalize';
-// @import 'node_modules/normalize.css/normalize';
 
 // Mixins
-@import "mixins/clearfix";
-@import "mixins/clearfix-ie8";
-@import "mixins/ellipsis";
-@import "mixins/placeholder";
-@import "mixins/ratio";
-@import "mixins/media";
+@import 'mixins/clearfix';
+@import 'mixins/clearfix-ie8';
+@import 'mixins/ellipsis';
+@import 'mixins/placeholder';
+@import 'mixins/ratio';
+@import 'mixins/media';
+@import 'mixins/px-to-em';
+@import 'mixins/px-to-rem';
 
-// Variables
-@import 'tools/vars';
-
-// UI
+// Tools
+@import 'tools/variables';
 @import 'tools/base';
 @import 'tools/directions';
-@import 'tools/buttons';
-@import 'tools/fields';
-
-// Grid
 @import 'tools/grid';
