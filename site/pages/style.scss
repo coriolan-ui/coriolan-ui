@@ -1,0 +1,53 @@
+// Selection colors
+$selection-color: rgba(#fb4b33,.5);
+
+::selection {
+    background: $selection-color;
+}
+
+::-moz-selection {
+    background: $selection-color;
+}
+
+img::selection {
+    background: transparent;
+}
+
+img::-moz-selection {
+    background: transparent;
+}
+
+body {
+    -webkit-tap-highlight-color: $selection-color;
+}
+
+// Base
+html {
+    height: 100%;
+}
+
+body {
+    // font-family: 'Montserrat', sans-serif;
+    // font-family: 'PT Serif', serif;
+    // font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background: #fff;
+    margin: 0;
+    color: #373737;
+    font: 400 16px/1.3 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    // position: relative;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0 0 1em;
+}
+
+.index {
+
+}

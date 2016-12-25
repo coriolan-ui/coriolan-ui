@@ -1,0 +1,11 @@
+siteTitle = 'Coriolan UI'
+siteDescr = 'sass mixins pack'
+siteAuthor = ''
+
+siteNpmUrl = 'https://www.npmjs.com/package/coriolan-ui'
+siteGithubUrl = 'https://github.com/coriolan-ui/coriolan-ui'
+
+poweredUrl = 'http://bbq-agency.github.io'
+poweredTitle = 'BBQ Agency'
+
+linkPrefix = ''

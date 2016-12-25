@@ -1,0 +1,17 @@
+body {
+    min-height: 100%;
+    display: flex;
+}
+
+.flex-sticky {
+    padding-top: 90px;
+    box-sizing: border-box;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    &__content {
+        flex: 1;
+    }
+}
+

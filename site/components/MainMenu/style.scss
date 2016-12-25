@@ -1,0 +1,96 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/media';
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+
+$mainmenu__link-selected--height: 4px;
+
+.mainmenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+
+    &__wrapper {
+        max-width: 777px;
+        margin: 0 auto;
+    }
+
+    &__nav {
+        @include clearfix;
+        padding: 0 5%;
+        background: #d43324;
+    }
+
+    &__subnav {
+        padding: 10px 5%;
+        @include clearfix;
+    }
+
+    &__shield-link {
+        float: right;
+        margin-left: 4px;
+    }
+
+    &__shield-img {
+    }
+
+    &__coriolan-lion {
+        float: left;
+        width: auto;
+        height: 30px;
+        margin-right: 10px;
+    }
+
+    &__link {
+        padding: 10px 14px;
+        line-height: 30px;
+        text-decoration: none;
+        color: #fff;
+        transition: opacity .25s ease;
+        position: relative;
+        float: left;
+        opacity: .5;
+
+        &:after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            width: 0;
+            height: 0;
+            transition: width .25s ease .15s, left .25s ease .15s, height .25s ease;
+            background: #fff;
+        }
+
+        // @include media(M) {
+        //     padding: 16px 10px;
+        // }
+
+        &:hover {
+            opacity: 1;
+        }
+
+        &.is-selected {
+            opacity: 1;
+
+            &:after {
+                height: $mainmenu__link-selected--height;
+                left: 0;
+                width: 100%;
+            }
+        }
+
+        &--coriolan {
+            font-family: 'Montserrat', sans-serif;
+        }
+    }
+
+    &__svgicon {
+        display: block;
+        width: auto;
+        height: 30px;
+        box-sizing: border-box;
+        padding: 8px 0;
+    }
+}
