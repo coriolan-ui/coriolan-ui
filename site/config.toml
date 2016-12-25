@@ -8,4 +8,4 @@ siteGithubUrl = 'https://github.com/coriolan-ui/coriolan-ui'
 poweredUrl = 'http://bbq-agency.github.io'
 poweredTitle = 'BBQ Agency'
 
-linkPrefix = ''
+linkPrefix = '/coriolan-ui'
