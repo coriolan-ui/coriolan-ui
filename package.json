@@ -1,9 +1,9 @@
 {
   "name": "coriolan-ui",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Coriolan UI - sass mixins pack",
   "homepage": "http://coriolan-ui.github.io",
-  "author": "BBQ Agency",
+  "author": "Rooooster Studio",
   "contributors": [
     "Ihor Orlovskyi <ihororlovskyi@gmail.com> (http://ihororlovskyi.com/)",
     "E Koval <xxx@xxx.xxx>",
@@ -12,7 +12,7 @@
     "Dariia Komashchuk <d.komaschuk@gmail.com>"
   ],
   "license": "MIT",
-  "main": "_coriolan-ui.scss",
+  "main": "index.js",
   "keywords": [
     "sass",
     "scss",
