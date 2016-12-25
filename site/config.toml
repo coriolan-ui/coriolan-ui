@@ -3,9 +3,9 @@ siteDescr = 'sass mixins pack'
 siteAuthor = ''
 
 siteNpmUrl = 'https://www.npmjs.com/package/coriolan-ui'
-siteGithubUrl = 'https://github.com/coriolan-ui/coriolan-ui'
+siteGithubUrl = 'https://github.com/coriolan-ui/coriolan-ui.github.io'
 
 poweredUrl = 'http://bbq-agency.github.io'
 poweredTitle = 'BBQ Agency'
 
-linkPrefix = '/coriolan-ui'
+linkPrefix = ''
