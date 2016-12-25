@@ -1,5 +1,3 @@
-// Pixels to Rems
-
 @function rem($pxval) {
     @if not unitless($pxval) {
         $pxval: strip-units($pxval);
@@ -10,17 +8,3 @@
     }
     @return ($pxval / $base) * 1rem;
 }
-
-// Usage
-
-// SCSS
-
-// .item {
-//     font-size: rem(12);
-// }
-
-// CSS Output
-
-// .item {
-//     font-size: 0.75rem;
-// }

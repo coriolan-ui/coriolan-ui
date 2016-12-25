@@ -1,5 +1,3 @@
-// Clearfix
-
 @mixin clearfix {
     &::after {
         clear: both;
@@ -7,19 +5,3 @@
         display: table;
     }
 }
-
-// Usage
-
-// SCSS
-
-// .container {
-//     @include clearfix;
-// }
-
-// CSS Output
-
-// .container::after {
-//     clear: both;
-//     content: "";
-//     display: table;
-// }

@@ -1,4 +1,3 @@
-// mixin
 @mixin col($width: 12) {
     float: left;
     padding: 0 $gridIndent;
@@ -6,13 +5,11 @@
     width: 100%/12*$width;
 }
 
-// row
 .row {
     @include clearfix;
     margin: 0 -1*$gridIndent;
 }
 
-// columns
 .col-1 {
     @include col(1);
 }
