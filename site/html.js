@@ -39,7 +39,7 @@ module.exports = React.createClass({
                     <meta property="og:image" content={ prefixLink(ogImage) } />
                 </head>
                 <body>
-                    <div style={{width:'100%'}} id="react-mount" dangerouslySetInnerHTML={ {    __html: this.props.body} } />
+                    <div id="react-mount" dangerouslySetInnerHTML={ {    __html: this.props.body} } />
                     <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) } />
                 </body>
             </html>

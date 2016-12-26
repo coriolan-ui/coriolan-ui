@@ -35,7 +35,9 @@ class MarkdownWrapper extends React.Component {
                         <MainMenu {...this.props}/>
                         { template }
                     </div>
-                    <Footer {...this.props}/>
+                    <div className='flex-sticky__footer'>
+                        <Footer {...this.props}/>
+                    </div>
                 </div>
             </DocumentTitle>
         );
