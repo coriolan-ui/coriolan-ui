@@ -1,11 +1,16 @@
-@import '../../node_modules/coriolan-ui/tools/variables';
 @import '../../node_modules/coriolan-ui/mixins/clearfix';
 
 .page {
-    // color: #fff;
-    padding: 30px 10px;
-    @include clearfix;
+    padding: 10px 10px 30px;
     text-align: left;
     max-width: 666px;
     margin: 0 auto;
+    @include clearfix;
+
+    &__content {
+
+        h1 {
+            margin-top: 0;
+        }
+    }
 }

@@ -1,14 +1,13 @@
-@import '../../node_modules/coriolan-ui/tools/variables';
 @import '../../node_modules/coriolan-ui/mixins/clearfix';
 
 $sidebarWidth: 180px;
 
 .post {
-    padding: 30px 10px;
+    padding: 10px 10px 30px;
     max-width: 666px;
     margin: 0 auto;
-    @include clearfix;
     text-align: left;
+    @include clearfix;
 
     &__title {
         float: left;
@@ -26,5 +25,9 @@ $sidebarWidth: 180px;
         float: left;
         width: calc(100% - #{$sidebarWidth});
         margin-left: $sidebarWidth;
+
+        h1 {
+            margin-top: 0;
+        }
     }
 }
