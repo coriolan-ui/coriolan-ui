@@ -25,7 +25,7 @@ path: '/projects/'
 |:---|:---|:---|:---|
 |![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)|
 ||LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-||Vu3|_(January)_||
+||Vu3|_(January)_|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 ||VaBank|_(January)_||
 ||Vu2|_(February)_||
 ||Korona|_(February)_||
