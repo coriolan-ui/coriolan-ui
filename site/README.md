@@ -14,9 +14,11 @@ _Web development of Coriolan UI site_
 
 ### Run
 
+`cd site`
+
 `npm i`
 
-`gatsby develop`
+`npm start`
 
 ### Deploy
 
