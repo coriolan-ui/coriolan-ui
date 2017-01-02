@@ -1,6 +1,6 @@
 ---
 title: 'Sites'
-layout: page
+layout: post
 path: '/sites/'
 ---
 
@@ -17,9 +17,11 @@ path: '/sites/'
 
 |Site Name|Source Link|
 |:---|:---:|
-|[Coriolan UI](https://coriolan-ui.github.io)|[source](https://github.com/coriolan-ui/coriolan-ui.github.io)|
+|[Skoryk Competition](http://rooooster.com/skoryk)|[source](https://github.com/rooooster/skoryk)|
+|[Monte Carlo Riviera](http://monte-carlo-riviera.github.io)|[source](https://github.com/monte-carlo-riviera/monte-carlo-riviera.github.io)|
 |[Nebo Agency](http://neboua.github.io)|[source](https://github.com/neboua/neboua.github.io)|
-|[Skoryk Competition 2016](http://rooooster.com/skoryk)|[source](https://github.com/rooooster/skoryk)|
+|[Coriolan UI](https://coriolan-ui.github.io)|[source](https://github.com/coriolan-ui/coriolan-ui.github.io)|
 |[LuckyLabs](http://rooooster.com/luckylabs)|[source](https://github.com/rooooster/luckylabs)|
 |[Codereamer](http://rooooster.com/codereamer)|[source](https://github.com/rooooster/codereamer)|
+|[BBQ Agency](http://bbq-agency.github.io)|[source](https://github.com/bbq-agency/bbq-agency.github.io)|
 |[Newsman](http://rooooster.com/newsman)|[source](https://github.com/rooooster/newsman)|

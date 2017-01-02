@@ -41,7 +41,7 @@ class MainMenu extends React.Component {
                             <Ink />
                         </Link> 
 
-                        <Link to={ prefixLink('/sites/')} className='mainmenu__link' activeClassName='is-selected'>
+                        <Link to={ prefixLink('/sites/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/sites/')) == 0 ? 'is-selected' : '' }`}>
                             Sites
                             <Ink />
                         </Link> 

@@ -15,7 +15,10 @@ class Footer extends React.Component {
             <div className='footer'>
                 <div className='footer__copyright'>2015 - 2016 © { config.siteTitle }</div>
                 <div className='footer__powered'>
-                    Powered by <a href={ config.poweredUrl } className='footer__powered-link' target='_blank'>{ config.poweredTitle }</a>
+                    Powered by <a href={ config.poweredUrl } className='footer__powered-link'>
+                        { config.poweredTitle }
+                        <Ink/>
+                    </a>
                 </div>
             </div>
         );

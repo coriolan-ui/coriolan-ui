@@ -9,7 +9,7 @@ import { config } from 'config'
 import './style.scss';
 import './highlight.scss';
 
-class SitePage extends React.Component {
+class Page extends React.Component {
     render() {
         const {route} = this.props
         const post = route.page.data
@@ -23,9 +23,9 @@ class SitePage extends React.Component {
     }
 }
 
-SitePage.propTypes = {
+Page.propTypes = {
     post: React.PropTypes.object,
     pages: React.PropTypes.array,
 }
 
-export default SitePage
+export default Page

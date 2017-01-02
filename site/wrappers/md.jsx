@@ -1,9 +1,8 @@
 import React from 'react'
 import DocumentTitle from 'react-document-title'
-import SitePost from '../components/SitePost'
-import SitePage from '../components/SitePage'
+import Post from '../components/Post'
+import Page from '../components/Page'
 import HomePage from '../components/HomePage'
-import MixinList from '../components/MixinList'
 import MainMenu from '../components/MainMenu'
 import Footer from '../components/Footer'
 import { config } from 'config'
@@ -19,13 +18,11 @@ class MarkdownWrapper extends React.Component {
         layout = post.layout
 
         if (layout === 'post') {
-            template = <SitePost {...this.props}/>
+            template = <Post {...this.props}/>
         } else if (layout === 'page') {
-            template = <SitePage {...this.props}/>
+            template = <Page {...this.props}/>
         } else if (layout === 'home') {
             template = <HomePage {...this.props}/>
-        } else if (layout === 'MixinList') {
-            template = <MixinList {...this.props}/>
         }
 
         return (

@@ -1,0 +1,56 @@
+@import '../../node_modules/coriolan-ui/tools/variables';
+@import '../../node_modules/coriolan-ui/mixins/clearfix';
+@import '../../node_modules/coriolan-ui/mixins/px-to-rem';
+@import '../../node_modules/coriolan-ui/mixins/ratio';
+
+$sidebarWidth: 180px;
+
+.post {
+    padding: 10px 10px 30px;
+    max-width: 666px;
+    margin: 0 auto;
+    text-align: left;
+    @include clearfix;
+
+    &__title {
+        // float: left;
+        // width: 100%;
+    }
+
+    &__sidebar {
+        overflow: hidden;
+        float: left;
+        width: $sidebarWidth;
+        position: fixed;
+    }
+
+    &__content {
+        float: left;
+        width: calc(100% - #{$sidebarWidth});
+        margin-left: $sidebarWidth;
+
+        h1 {
+            margin-top: 0;
+        }
+    }
+
+    &__ratio {
+        border-radius: rem(8);
+        border: rem(12) solid #666;
+        @include ratio(100%,16,9);
+        box-sizing: border-box;
+        overflow: hidden;
+    }
+
+    &__iframe {
+        border: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        // right: 0;
+        // bottom: 0;
+        width: 100%;
+        height: 101%;
+        // transform: scale(.5);
+    }
+}
