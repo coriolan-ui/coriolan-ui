@@ -25,9 +25,9 @@ path: '/projects/'
 |:---|:---|:---|:---|
 |![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)|
 ||LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-||Vu3|_(January)_|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
-||VaBank|_(January)_||
-||Vu2|_(February)_||
+||Vu3|[vu3-prod.isitdomain.com](http://vu3-prod.isitdomain.com)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
+||VaBank|_(January)_|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
+||Vu2|_(February)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 ||Korona|_(February)_||
 ||GMS|_(March)_||
 ||Vu5|_(April)_||
