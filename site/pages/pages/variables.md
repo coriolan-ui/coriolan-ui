@@ -6,7 +6,7 @@ path: '/variables/'
 
 ### Global
 
-    $em-base: 14;
+    $em-base: 14 !default;;
 
 ### Body
 
@@ -21,6 +21,7 @@ path: '/variables/'
     $M: 754px !default;
     $L: 1054px !default;
     $XL: 1300px !default;
+    $XXL: 1792px !default;
 
 ### Grid
 
