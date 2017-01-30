@@ -8,8 +8,7 @@
     "copy": "npm run copy:files",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build --prefix-links && gh-pages -d public -b master",
-    "start": "gatsby develop"
+    "deploy": "gatsby build --prefix-links && gh-pages -d public -b master"
   },
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
