@@ -18,7 +18,7 @@ _Web development of Coriolan UI site_
 
 `npm i`
 
-`npm start`
+`npm run develop`
 
 ### Deploy
 
