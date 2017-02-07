@@ -7,6 +7,7 @@ path: '/projects/'
 <style>
     table {
         background: #eee;
+        border-collapse: collapse;
         border-radius: 0.4rem;
         padding: 0 .4rem;
         width: 100%;
@@ -14,10 +15,12 @@ path: '/projects/'
     th, td {
         padding: 0 .4rem;
     }
+    td {
+        padding: .4rem;
+    }
     th {
-        background: #ccc;
-        padding-top: .4rem;
-        padding-bottom: .4rem;
+        background: #dedede;
+        padding: .8rem;
     }
     td img {
         width: 50px;
@@ -34,11 +37,12 @@ path: '/projects/'
 |![](projects-vu3.png)|Vu3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](projects-vabank.png)|VaBank|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](projects-vu2.png)|Vu2|_(February)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
-|![](projects-korona.png)|Korona|[casinokorona.com](https://casinokorona.com)|_(February)_||
-|![](projects-gms.png)|GMS|[gmslots.co](https://gmslots.co)|_(March)_||
-|![](projects-vu5.png)|Vu5|[vulkandeluxe.club](https://vulkandeluxe.club)|_(April)_||
-|![](projects-ssl.png)|SSL|[sscasino.org](https://sscasino.org)|_(April)_||
-|![](projects-vu1.png)|Vu1|[velkam6.casino](https://velkam6.casino)|_(May)_||
+|![](projects-korona.png)|Korona|[casinokorona.com](https://casinokorona.com)|_(February)_|
+|![](projects-gms.png)|GMS|[gmslots.co](https://gmslots.co)|_(March)_|
+|![](projects-vu5.png)|Vu5|[vulkandeluxe.club](https://vulkandeluxe.club)|_(April)_|
+|![](projects-ssl.png)|SSL|[sscasino.org](https://sscasino.org)|_(April)_|
+|![](projects-vu1.png)|Vu1|[velkam6.casino](https://velkam6.casino)|_(May)_|
+|![](projects-azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com/)|
 
 #### NeoCore
 
