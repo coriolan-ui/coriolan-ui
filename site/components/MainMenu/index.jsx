@@ -22,27 +22,27 @@ class MainMenu extends React.Component {
 
                         <Link to={ prefixLink('/')} className='mainmenu__link mainmenu__link--coriolan' activeClassName='is-selected' onlyActiveOnIndex>
                             <img className='mainmenu__coriolan-lion' src={ prefixLink(iconCoriolanLion) }/>
-                            { config.siteTitle }
+                            <span>{ config.siteTitle }</span>
                             <Ink />
                         </Link>
 
                         <Link to={ prefixLink('/installation/')} className='mainmenu__link' activeClassName='is-selected'>
-                            Installation
+                            <span>Installation</span>
                             <Ink />
                         </Link> 
 
                         <Link to={ prefixLink('/variables/')} className='mainmenu__link' activeClassName='is-selected'>
-                            Variables
+                            <span>Variables</span>
                             <Ink />
                         </Link> 
 
                         <Link to={ prefixLink('/mixins/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/mixins/')) == 0 ? 'is-selected' : '' }`}>
-                            Mixins
+                            <span>Mixins</span>
                             <Ink />
                         </Link> 
 
                         <Link to={ prefixLink('/sites/')} className={`mainmenu__link ${ location.pathname.indexOf(prefixLink('/sites/')) == 0 ? 'is-selected' : '' }`}>
-                            Sites
+                            <span>Sites</span>
                             <Ink />
                         </Link> 
 
@@ -78,8 +78,7 @@ class MainMenu extends React.Component {
 }
 
 MainMenu.propTypes = {
-    location: React.PropTypes.object,
-    page: React.PropTypes.object,
+    location: React.PropTypes.object
 }
 
 export default MainMenu
