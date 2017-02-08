@@ -16,15 +16,22 @@ path: '/projects/'
         padding: 0 .4rem;
     }
     td {
-        padding: .4rem;
+        padding: .2rem .4rem;
     }
     th {
         background: #dedede;
-        padding: .8rem;
+        padding: .4rem;
     }
     td img {
-        width: 50px;
-        border-radius: 1rem;
+        width: 40px;
+        border-radius: .4rem;
+    }
+    td a {
+        color: #d43324;
+        text-decoration: none;
+    }
+    td a:hover {
+        text-decoration: underline;
     }
 </style>
 
@@ -33,34 +40,32 @@ path: '/projects/'
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
 |![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)|
-|![](projects-lotofun.png)|LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-|![](projects-vu3.png)|Vu3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
-|![](projects-vabank.png)|VaBank|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
-|![](projects-vu2.png)|Vu2|_(February)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
-|![](projects-korona.png)|Korona|[casinokorona.com](https://casinokorona.com)|_(February)_|
-|![](projects-gms.png)|GMS|[gmslots.co](https://gmslots.co)|_(March)_|
-|![](projects-vu5.png)|Vu5|[vulkandeluxe.club](https://vulkandeluxe.club)|_(April)_|
-|![](projects-ssl.png)|SSL|[sscasino.org](https://sscasino.org)|_(April)_|
-|![](projects-vu1.png)|Vu1|[velkam6.casino](https://velkam6.casino)|_(May)_|
-|![](projects-azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com/)|
+|![](vabank.png)|VaBank|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
+|![](vu3.png)|Vu3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
+|![](lotofun.png)|LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
+|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com/)|
+|![](vu2.png)|Vu2|_(February)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
+|![](korona.png)|Korona|_(February)_|_(February)_|
+|![](gms.png)|GMS|_(March)_|_(March)_|
+|![](vu5.png)|Vu5|_(April)_|_(April)_|
+|![](ssl.png)|SSL|_(April)_|_(April)_|
+|![](vu1.png)|Vu1|_(May)_|_(May)_|
 
-#### NeoCore
+#### NeoCore1
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](projects-vu5.png)|Vu5|[myvulkan.com](https://myvulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
-|![](projects-ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
-|![](projects-longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
-|![](projects-korona.png)|Korona|[casinokorona.com](http://casinokorona.com)||
-|![](projects-gms.png)|GMS|[gmslots.com](http://www.gmslots.com)|[gms.isitdomain.com](http://gms.isitdomain.com)|
-|![](projects-vabank.png)|VaBank|[va-bank.com](http://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
+|![](vu5.png)|Vu5|[myvulkan.com](https://myvulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
+|![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
+|![](longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
+|![](korona.png)|Korona|[casinokorona.com](http://casinokorona.com)|[korona.isitdomain.com](http://korona.isitdomain.com)|
+|![](gms.png)|GMS|[gmslots.com](http://www.gmslots.com)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 
 #### Timur
 
 |Logo|Name|Production|
 |:---|:---|:---|
-|![](projects-vu1.png)|Vu1|[velkam4.casino](http://velkam4.casino)|
-|![](projects-vu2.png)|Vu2|[casino-velcam.com](http://casino-velcam.com)|
-|![](projects-vu3.png)|Vu3|[velkam.club](http://velkam.club)|
-|![](projects-gaminator.png)|Geiminator|[geiminator.win](http://geiminator.win)|
-|![](projects-igrun.png)|Igrun|[igrun.live](http://igrun.live)|
+|![](vu1.png)|Vu1|[velkam4.casino](http://velkam4.casino)|
+|![](vu2.png)|Vu2|[casino-velcam.com](http://casino-velcam.com)|
+|![](gaminator.png)|Geiminator|[geiminator.win](http://geiminator.win)|
+|![](igrun.png)|Igrun|[igrun.live](http://igrun.live)|
