@@ -6,25 +6,30 @@ path: '/projects/'
 
 <style>
     table {
-        background: #eee;
         border-collapse: collapse;
-        border-radius: 0.4rem;
-        padding: 0 .4rem;
+        padding: .4rem;
         width: 100%;
     }
-    th, td {
-        padding: 0 .4rem;
+    thead tr {
+        background: rgba(0,0,0,.15);
     }
-    td {
-        padding: .2rem .4rem;
+    tbody tr {
+        background: rgba(0,0,0,.05);
+        height: 52px;
+    }
+    tr:nth-child(2n) {
+        background: rgba(0,0,0,.10);
     }
     th {
-        background: #dedede;
+        padding: .4rem;
+    }
+    td {
         padding: .4rem;
     }
     td img {
         width: 40px;
         border-radius: .4rem;
+        display: block;
     }
     td a {
         color: #d43324;
