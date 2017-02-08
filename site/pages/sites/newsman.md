@@ -1,10 +1,10 @@
 ---
-id: 08
+id: 07
 date: 2016-11-01
 title: 'Newsman'
 layout: post
 category: site
-siteUrl: http://rooooster.com/newsman/
+siteUrl: http://rooooster.com/newsman
 sourceUrl: https://github.com/rooooster/newsman
 ---
 
