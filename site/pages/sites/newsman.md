@@ -4,7 +4,7 @@ date: 2016-11-01
 title: 'Newsman'
 layout: post
 category: site
-siteUrl: http://rooooster.com/newsman
+siteUrl: https://rooooster.github.io/newsman
 sourceUrl: https://github.com/rooooster/newsman
 ---
 

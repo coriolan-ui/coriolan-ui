@@ -4,7 +4,7 @@ date: 2016-05-01
 title: 'LuckyLabs'
 layout: post
 category: site
-siteUrl: http://rooooster.com/luckylabs
+siteUrl: https://rooooster.github.io/luckylabs
 sourceUrl: https://github.com/rooooster/luckylabs
 ---
 

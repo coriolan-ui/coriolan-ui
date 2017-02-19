@@ -4,7 +4,7 @@ date: 2016-06-01
 title: 'Codereamer'
 layout: post
 category: site
-siteUrl: http://rooooster.com/codereamer
+siteUrl: https://rooooster.github.io/codereamer
 sourceUrl: https://github.com/rooooster/codereamer
 ---
 
