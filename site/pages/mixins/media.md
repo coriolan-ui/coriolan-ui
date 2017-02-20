@@ -7,36 +7,7 @@ category: mixin
 
 Coriolan UI is mobile first tool. Thats why our `media` mixin is very popular in whole galactic.
 
-Source
-
-    @function translate-media-condition($c) {
-        $condMap: (
-            "XS": "(min-width: #{$XS})",
-            "S": "(min-width: #{$S})",
-            "M": "(min-width: #{$M})",
-            "L": "(min-width: #{$L})",
-            "XL": "(min-width: #{$XL})",
-        );
-        $result: map-get( $condMap, $c );
-        @if ( $result == null ) {
-            $result: $c;
-        }
-        @return $result;
-    }
-
-    @mixin media($args...) {
-        $query: "";
-        @each $arg in $args {
-            $op: "";
-            @if ( $query != "" ) {
-                $op: " and ";
-            }
-            $query: $query + $op + translate-media-condition($arg);
-        }
-        @media #{$query}  { @content; }
-    }
-
-SCSS Sintaxis
+SCSS
 
     .media-usage {
         background: silver;
@@ -106,4 +77,33 @@ CSS Output
         .media-usage {
             background: magenta;
         }
+    }
+
+Source
+
+    @function translate-media-condition($c) {
+        $condMap: (
+            "XS": "(min-width: #{$XS})",
+            "S": "(min-width: #{$S})",
+            "M": "(min-width: #{$M})",
+            "L": "(min-width: #{$L})",
+            "XL": "(min-width: #{$XL})",
+        );
+        $result: map-get( $condMap, $c );
+        @if ( $result == null ) {
+            $result: $c;
+        }
+        @return $result;
+    }
+
+    @mixin media($args...) {
+        $query: "";
+        @each $arg in $args {
+            $op: "";
+            @if ( $query != "" ) {
+                $op: " and ";
+            }
+            $query: $query + $op + translate-media-condition($arg);
+        }
+        @media #{$query}  { @content; }
     }

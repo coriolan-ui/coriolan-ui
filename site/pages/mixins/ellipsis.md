@@ -5,16 +5,7 @@ layout: post
 category: mixin
 ---
 
-Source
-
-    @mixin ellipsis {
-        display: block;
-        white-space: nowrap;
-        text-overflow: ellipsis;
-        overflow: hidden;
-    }
-
-SCSS Sintaxis
+SCSS
 
     .title {
         @include ellipsis;
@@ -27,4 +18,13 @@ CSS Output
         text-overflow: ellipsis;
         overflow: hidden;
         display: block;
+    }
+
+Source
+
+    @mixin ellipsis {
+        display: block;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
     }

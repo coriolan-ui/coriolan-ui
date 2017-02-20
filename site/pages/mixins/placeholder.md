@@ -5,18 +5,7 @@ layout: post
 category: mixin
 ---
 
-Source
-
-    @mixin placeholder {
-        $prefixs: ":-webkit-input" ":-moz" "-moz" "-ms-input";
-        @each $placeholder in $prefixs {
-            &:#{$placeholder}-placeholder {
-                @content;
-            }
-        }
-    }
-
-SCSS Sintaxis
+SCSS
 
     textarea {
         width: 100%;
@@ -48,4 +37,15 @@ CSS Output
 
     textarea:-ms-input-placeholder {
         font-size: 12px;
+    }
+
+Source
+
+    @mixin placeholder {
+        $prefixs: ":-webkit-input" ":-moz" "-moz" "-ms-input";
+        @each $placeholder in $prefixs {
+            &:#{$placeholder}-placeholder {
+                @content;
+            }
+        }
     }

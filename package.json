@@ -12,7 +12,7 @@
     "Dariia Komashchuk <d.komaschuk@gmail.com>"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "coriolan-ui.js",
   "keywords": [
     "sass",
     "scss",

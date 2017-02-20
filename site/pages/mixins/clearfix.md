@@ -5,17 +5,7 @@ layout: post
 category: mixin
 ---
 
-Source
-
-    @mixin clearfix {
-        &::after {
-            clear: both;
-            content: "";
-            display: table;
-        }
-    }
-
-SCSS Sintaxis
+SCSS
 
     .container {
         @include clearfix;
@@ -27,4 +17,14 @@ CSS Output
         clear: both;
         content: '';
         display: table;
+    }
+
+Source
+
+    @mixin clearfix {
+        &::after {
+            clear: both;
+            content: "";
+            display: table;
+        }
     }

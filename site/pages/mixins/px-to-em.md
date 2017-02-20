@@ -5,18 +5,6 @@ layout: post
 category: mixin
 ---
 
-Source
-
-    @function em($pxval, $base: $em-base) {
-        @if not unitless($pxval) {
-            $pxval: strip-units($pxval);
-        }
-        @if not unitless($base) {
-            $base: strip-units($base);
-        }
-        @return ($pxval / $base) * 1em;
-    }
-
 SCSS
 
     .item {
@@ -29,4 +17,16 @@ CSS Output
     .item {
         font-size: 0.75em;
         font-size: 0.5em;
+    }
+
+Source
+
+    @function em($pxval, $base: $em-base) {
+        @if not unitless($pxval) {
+            $pxval: strip-units($pxval);
+        }
+        @if not unitless($base) {
+            $base: strip-units($base);
+        }
+        @return ($pxval / $base) * 1em;
     }

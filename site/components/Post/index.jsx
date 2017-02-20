@@ -56,10 +56,10 @@ class Post extends React.Component {
                 </div>
                 <div className='post__content'>
                     <h1 className='post__title'>{ post.title }</h1>
-                    <div dangerouslySetInnerHTML={ {    __html: post.body} } />
                     { iframe }
                     { siteUrl }
                     { sourceUrl }
+                    <div dangerouslySetInnerHTML={ {    __html: post.body} } />
                 </div>
             </div>
         );

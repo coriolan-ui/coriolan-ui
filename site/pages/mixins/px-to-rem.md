@@ -5,6 +5,18 @@ layout: post
 category: mixin
 ---
 
+SCSS
+
+    .item {
+        font-size: rem(12);
+    }
+
+CSS Output
+
+    .item {
+        font-size: 0.75rem;
+    }
+
 Source
 
     @function rem($pxval) {
@@ -18,14 +30,3 @@ Source
         @return ($pxval / $base) * 1rem;
     }
 
-SCSS
-
-    .item {
-        font-size: rem(12);
-    }
-
-CSS Output
-
-    .item {
-        font-size: 0.75rem;
-    }
