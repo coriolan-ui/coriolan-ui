@@ -6,13 +6,13 @@ path: '/variables/'
 
 ### Global
 
-    $em-base: 14 !default;;
+    $em-base: 14 !default;
 
 ### Body
 
-    $bodyBg: #ccc !default;
-    $bodyFont: 400 14px/1.3 Helvetica, Arial, sans-serif !default;
-    $bodyColor: #666 !default;
+    $bodyBg: #ccc !default; (Deprecated Soon)
+    $bodyFont: 400 14px/1.3 Helvetica, Arial, sans-serif !default; (Deprecated Soon)
+    $bodyColor: #666 !default; (Deprecated Soon)
 
 ### Breakpoints
 
