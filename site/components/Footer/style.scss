@@ -1,35 +1,21 @@
-@import '../../node_modules/coriolan-ui/tools/variables';
-@import '../../node_modules/coriolan-ui/mixins/media';
-
 .footer {
     padding: 40px 10px;
     background: #dedede;
-    // color: #000;
     position: relative;
 
     &__copyright {
-        // font-family: 'PT Sans', sans-serif;
-        // color: #ef4030;
-        // text-transform: uppercase;
-        // letter-spacing: 2px;
-        // font-size: 13px;
         margin-bottom: 20px;
     }
 
     &__powered {
-        // font-family: 'PT Sans', sans-serif;
-        // color: rgba(#fff,.5);
-        // text-transform: uppercase;
         letter-spacing: 2.5px;
         font-size: 12px;
-        // letter-spacing: 2px;
     }
 
     &__powered-link {
         color: #ef4030;
         text-decoration: none;
         position: relative;
-        // padding: 3px 0;
         padding: 1px 0 2px;
         cursor: pointer;
 

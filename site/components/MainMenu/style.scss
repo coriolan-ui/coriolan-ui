@@ -17,9 +17,14 @@ $mainmenu__link-selected--height: 4px;
     }
 
     &__nav {
-        @include clearfix;
-        padding: 0 5%;
+        padding: 0;
         background: #d43324;
+        @include clearfix;
+
+        @include media(S) {
+            padding-left: 5%;
+            padding-right: 5%;
+        }
     }
 
     &__subnav {
@@ -51,6 +56,11 @@ $mainmenu__link-selected--height: 4px;
         position: relative;
         float: left;
         opacity: .5;
+        display: none;
+
+        @include media(M) {
+            display: block;
+        }
 
         &:after {
             content: '';
@@ -62,10 +72,6 @@ $mainmenu__link-selected--height: 4px;
             transition: width .25s ease .15s, left .25s ease .15s, height .25s ease;
             background: #fff;
         }
-
-        // @include media(M) {
-        //     padding: 16px 10px;
-        // }
 
         &:hover {
             opacity: 1;
@@ -83,6 +89,16 @@ $mainmenu__link-selected--height: 4px;
 
         &--coriolan {
             font-family: 'Montserrat', sans-serif;
+            display: block;
+        }
+
+        &--menu {
+            display: block;
+            float: right;
+
+            @include media(M) {
+                display: none;
+            }
         }
     }
 

@@ -26,6 +26,11 @@ class MainMenu extends React.Component {
                             <Ink />
                         </Link>
 
+                        <Link to={ prefixLink('/menu/')} className='mainmenu__link mainmenu__link--menu' activeClassName='is-selected'>
+                            <span>Menu</span>
+                            <Ink />
+                        </Link>
+
                         <Link to={ prefixLink('/installation/')} className='mainmenu__link' activeClassName='is-selected'>
                             <span>Installation</span>
                             <Ink />
