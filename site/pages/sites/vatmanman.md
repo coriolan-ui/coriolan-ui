@@ -4,8 +4,8 @@ date: 2016-05-01
 title: 'VatmanMan'
 layout: post
 category: site
-siteUrl: https://rooooster.github.io/luckylabs
-sourceUrl: https://github.com/rooooster/luckylabs
+siteUrl: https://rooooster.github.io/vatmanman
+sourceUrl: https://github.com/rooooster/vatmanman
 ---
 
-Web development of LuckyLabs Vatman Man page
+Web development of VatmanMan page
