@@ -47,11 +47,11 @@ path: '/projects/'
 |![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)|
 |![](vabank.png)|VaBank|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](vu3.png)|Vu3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
-|![](gms.png)|GMS|_(February)_|[gms.isitdomain.com](http://gms.isitdomain.com)|
-|![](korona.png)|Korona|_(February)_|[korona.isitdomain.com](http://korona.isitdomain.com)|
-|![](vu2.png)|Vu2|_(February)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
+|![](gms.png)|GMS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
+|![](korona.png)|Korona|_(March)_|[korona.isitdomain.com](http://korona.isitdomain.com)|
+|![](vu2.png)|Vu2|_(March)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](lotofun.png)|LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com/)|
+|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 |![](vu5.png)|Vu5|_(April)_|_(April)_|
 |![](ssl.png)|SSL|_(April)_|_(April)_|
 |![](vu1.png)|Vu1|_(May)_|_(May)_|
@@ -64,7 +64,6 @@ path: '/projects/'
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
 |![](longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
 |![](korona.png)|Korona|[casinokorona.com](http://casinokorona.com)|[korona.isitdomain.com](http://korona.isitdomain.com)|
-|![](gms.png)|GMS|[gmslots.com](http://www.gmslots.com)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 
 #### Timur
 
