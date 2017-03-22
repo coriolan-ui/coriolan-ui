@@ -38,14 +38,14 @@ class Post extends React.Component {
         if (category === 'site') {
             sourceUrl =
             <p>
-                source: <a href={ post.sourceUrl }>{ post.sourceUrl }</a>
+                source: <a href={ post.sourceUrl } target='_blank'>{ post.sourceUrl }</a>
             </p>
         }
 
         if (category === 'site') {
             siteUrl =
             <p>
-                link: <a href={ post.siteUrl }>{ post.siteUrl }</a>
+                link: <a href={ post.siteUrl } target='_blank'>{ post.siteUrl }</a>
             </p>
         }
 
