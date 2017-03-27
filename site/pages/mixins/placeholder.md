@@ -5,7 +5,7 @@ layout: post
 category: mixin
 ---
 
-SCSS
+SCSS Usage
 
     textarea {
         width: 100%;
@@ -39,7 +39,7 @@ CSS Output
         font-size: 12px;
     }
 
-Source
+SCSS Source
 
     @mixin placeholder {
         $prefixs: ":-webkit-input" ":-moz" "-moz" "-ms-input";

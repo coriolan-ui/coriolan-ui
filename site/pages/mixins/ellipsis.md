@@ -5,7 +5,7 @@ layout: post
 category: mixin
 ---
 
-SCSS
+SCSS Usage
 
     .title {
         @include ellipsis;
@@ -20,7 +20,7 @@ CSS Output
         display: block;
     }
 
-Source
+SCSS Source
 
     @mixin ellipsis {
         display: block;

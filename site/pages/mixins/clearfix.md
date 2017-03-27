@@ -5,7 +5,7 @@ layout: post
 category: mixin
 ---
 
-SCSS
+SCSS Usage
 
     .container {
         @include clearfix;
@@ -19,7 +19,7 @@ CSS Output
         display: table;
     }
 
-Source
+SCSS Source
 
     @mixin clearfix {
         &::after {

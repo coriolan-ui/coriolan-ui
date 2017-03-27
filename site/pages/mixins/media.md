@@ -7,7 +7,7 @@ category: mixin
 
 Coriolan UI is mobile first tool. Thats why our `media` mixin is very popular in whole galactic.
 
-SCSS
+SCSS Usage
 
     .media-usage {
         background: silver;
@@ -79,7 +79,7 @@ CSS Output
         }
     }
 
-Source
+SCSS Source
 
     @function translate-media-condition($c) {
         $condMap: (

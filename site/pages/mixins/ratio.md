@@ -5,7 +5,7 @@ layout: post
 category: mixin
 ---
 
-SCSS
+SCSS Usage
 
     .item {
         @include ratio(60%,1560px,500px);
@@ -18,7 +18,7 @@ CSS Output
         padding-bottom: 19.23077%;
     }
 
-Source
+SCSS Source
 
     @mixin ratio($width, $ratio-width, $ratio-height) {
         width: $width;

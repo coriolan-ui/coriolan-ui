@@ -5,7 +5,7 @@ layout: post
 category: mixin
 ---
 
-SCSS
+SCSS Usage
 
     .item {
         font-size: em(12);
@@ -19,7 +19,7 @@ CSS Output
         font-size: 0.5em;
     }
 
-Source
+SCSS Source
 
     @function em($pxval, $base: $em-base) {
         @if not unitless($pxval) {
