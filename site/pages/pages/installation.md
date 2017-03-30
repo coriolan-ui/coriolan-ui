@@ -32,9 +32,11 @@ Then import Coriolan UI in your sass/scss stylesheet from `bower_components` fol
 
 Now you can add any available mixin in your sass/scss stylesheet:
 
-    .container {
-        @include clearfix;
-    }
+```sass
+.container {
+    @include clearfix;
+}
+```
 
 Or even use any supported variable in your sass/scss stylesheet:
 
