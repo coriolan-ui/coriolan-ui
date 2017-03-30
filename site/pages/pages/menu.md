@@ -12,4 +12,8 @@ path: '/menu/'
 
 [Mixins](/mixins/)
 
-[Sites](/sites/bbq-agency/)
+[Sites](/sites/sentimony/)
+
+---
+
+[GitHub](https://github.com/coriolan-ui/coriolan-ui.github.io)

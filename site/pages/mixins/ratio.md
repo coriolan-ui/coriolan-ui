@@ -5,23 +5,29 @@ layout: post
 category: mixin
 ---
 
-SCSS Usage
+### SCSS Usage
 
-    .item {
-        @include ratio(60%,1560px,500px);
-    }
+```scss
+.item {
+    @include ratio(60%,1560px,500px);
+}
+```
 
-CSS Output
+### CSS Output
 
-    .item {
-        width: 60%;
-        padding-bottom: 19.23077%;
-    }
+```scss
+.item {
+    width: 60%;
+    padding-bottom: 19.23077%;
+}
+```
 
-SCSS Source
+### SCSS Source
 
-    @mixin ratio($width, $ratio-width, $ratio-height) {
-        width: $width;
-        padding-bottom: ($ratio-height / $ratio-width) * $width;
-        position: relative;
-    }
+```scss
+@mixin ratio($width, $ratio-width, $ratio-height) {
+    width: $width;
+    padding-bottom: ($ratio-height / $ratio-width) * $width;
+    position: relative;
+}
+```

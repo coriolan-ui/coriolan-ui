@@ -8,6 +8,7 @@ import Footer from '../components/Footer'
 import { config } from 'config'
 
 import './style.scss'
+import './highlighting.scss'
 
 class MarkdownWrapper extends React.Component {
     render() {

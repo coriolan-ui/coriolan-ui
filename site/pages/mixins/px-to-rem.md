@@ -5,28 +5,33 @@ layout: post
 category: mixin
 ---
 
-SCSS Usage
+### SCSS Usage
 
-    .item {
-        font-size: rem(12);
+```scss
+.item {
+    font-size: rem(12);
+}
+```
+
+### CSS Output
+
+```scss
+.item {
+    font-size: 0.75rem;
+}
+```
+
+### SCSS Source
+
+```scss
+@function rem($pxval) {
+    @if not unitless($pxval) {
+        $pxval: strip-units($pxval);
     }
-
-CSS Output
-
-    .item {
-        font-size: 0.75rem;
+    $base: $em-base;
+    @if not unitless($base) {
+        $base: strip-units($base);
     }
-
-SCSS Source
-
-    @function rem($pxval) {
-        @if not unitless($pxval) {
-            $pxval: strip-units($pxval);
-        }
-        $base: $em-base;
-        @if not unitless($base) {
-            $base: strip-units($base);
-        }
-        @return ($pxval / $base) * 1rem;
-    }
-
+    @return ($pxval / $base) * 1rem;
+}
+```
