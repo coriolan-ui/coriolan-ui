@@ -44,7 +44,7 @@ path: '/projects/'
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)|
+|![](lotoru.png)|LotoRu|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)<br>[lara-two.isitdomain.com](http://lara-two.isitdomain.com)|
 |![](vabank.png)|VaBank|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](vu3.png)|Vu3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](gms.png)|GMS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
