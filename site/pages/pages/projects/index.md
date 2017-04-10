@@ -50,7 +50,7 @@ path: '/projects/'
 |![](gms.png)|GMS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 |![](korona.png)|Korona|_(March)_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](vu2.png)|Vu2|_(March)_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
-|![](lotofun.png)|LotoFun|[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
+|![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)<br>[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 |![](vu5.png)|Vu5|_(April)_|_(April)_|
 |![](ssl.png)|SSL|_(April)_|_(April)_|
