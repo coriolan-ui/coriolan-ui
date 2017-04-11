@@ -60,7 +60,7 @@ path: '/projects/'
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](vu5.png)|Vu5|[myvulkan.com](https://myvulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
+|![](vu5.png)|Vu5|[play-vulkan.com](https://play-vulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
 |![](longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
 |![](korona.png)|Korona|[casinokorona.com](http://casinokorona.com)|[korona.isitdomain.com](http://korona.isitdomain.com)|
