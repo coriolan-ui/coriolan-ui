@@ -53,7 +53,7 @@ path: '/projects/'
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)<br>[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 |![](vu5.png)|Vu5|_(April)_|_(April)_|
-|![](ssl.png)|SSL|_(April)_|_(April)_|
+|![](ssl.png)|SSL|_(April)_|[ssl.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](vu1.png)|Vu1|_(May)_|_(May)_|
 
 #### NeoCore1
@@ -61,7 +61,7 @@ path: '/projects/'
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
 |![](vu5.png)|Vu5|[play-vulkan.com](https://play-vulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
-|![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
+|![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
 |![](korona.png)|Korona|[casinokorona.com](http://casinokorona.com)|[korona.isitdomain.com](http://korona.isitdomain.com)|
 
