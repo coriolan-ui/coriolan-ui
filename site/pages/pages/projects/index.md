@@ -53,7 +53,7 @@ path: '/projects/'
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)<br>[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 |![](vu5.png)|Vu5|_(April)_|_(April)_|
-|![](ssl.png)|SSL|_(April)_|[ssl.isitdomain.com](http://ssl-two.isitdomain.com)|
+|![](ssl.png)|SSL|_(April)_|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
 |![](vu1.png)|Vu1|_(May)_|_(May)_|
 
 #### NeoCore1
