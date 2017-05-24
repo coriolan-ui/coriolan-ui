@@ -11,14 +11,18 @@ path: '/projects/'
         width: 100%;
     }
     thead tr {
-        background: rgba(0,0,0,.15);
+        background-color: rgba(0,0,0,.20);
     }
     tbody tr {
-        background: rgba(0,0,0,.05);
+        background-color: rgba(0,0,0,.05);
         height: 52px;
+        transition: background-color .2s ease;
     }
-    tr:nth-child(2n) {
-        background: rgba(0,0,0,.10);
+    tbody tr:nth-child(2n) {
+        background-color: rgba(0,0,0,.10);
+    }
+    tbody tr:hover {
+        background-color: rgba(0,0,0,.15);
     }
     th {
         padding: .4rem;
@@ -49,12 +53,12 @@ path: '/projects/'
 |![](vu3.png)|MK3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
-|![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)<br>[lotofun.club](http://lotofun.club)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 |![](korona.png)|Tron|---|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](vu2.png)|MK2|---|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](vu5.png)|MK5|---|---|
 |![](vu1.png)|MK1|---|---|
+|![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net) _nc2_<br>[lotofun.club](http://lotofun.club) _static_|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
+|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
 
 #### NeoCore1
 
