@@ -53,8 +53,8 @@ path: '/projects/'
 |![](vu3.png)|MK3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv) _nc2_<br>[probonusclub.ru](http://probonusclub.ru) _static_|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
+|![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
-|![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com) _old_|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com) _old_|[vulkan.isitdomain.com](http://vulkan.isitdomain.com) _old_|
 |![](vu1.png)|MK1|[velkam4.casino](http://velkam4.casino) _old_|---|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net) _nc2_<br>[lotofun.club](http://lotofun.club) _static_|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
