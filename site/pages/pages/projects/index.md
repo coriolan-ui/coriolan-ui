@@ -52,7 +52,7 @@ path: '/projects/'
 |![](vabank.png)|Privat|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](vu3.png)|MK3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
-|![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv) _nc2_<br>[probonusclub.ru](http://probonusclub.ru) _static_|[ssl.isitdomain.com](http://ssl.isitdomain.com)|
+|![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv) _nc2_<br>[probonusclub.ru](http://probonusclub.ru) _static_|[ssl.isitdomain.com](http://ssl.isitdomain.com)<br>[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com) _old_|[vulkan.isitdomain.com](http://vulkan.isitdomain.com) _old_|
@@ -65,7 +65,6 @@ path: '/projects/'
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
 |![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)|
-|![](ssl.png)|SSL|---|[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](longbao.png)|38|[118long.com](http://118long.com)|[china.isitdomain.com](http://china.isitdomain.com)|
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com)|[korona.isitdomain.com](http://korona.isitdomain.com)|
 
