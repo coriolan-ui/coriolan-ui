@@ -8,4 +8,4 @@ siteUrl: https://sentimony.com
 sourceUrl: https://github.com/sentimony/sentimony-jekyll
 ---
 
-Web development of Skoryk Competition site
+Web development of Sentimony Records site
