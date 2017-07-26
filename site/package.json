@@ -5,7 +5,7 @@
     "babel-preset-react": "^6.11.1",
     "babel-preset-stage-0": "^6.5.0",
     "classnames": "^2.1.2",
-    "coriolan-ui": "^0.1.18",
+    "coriolan-ui": "^0.1.19",
     "front-matter": "^2.0.8",
     "gatsby": "^0.12.34",
     "history": "^2.1.1",
