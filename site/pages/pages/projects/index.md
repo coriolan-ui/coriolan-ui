@@ -54,7 +54,7 @@ path: '/projects/'
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)<br>[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
-|![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com)|[vulkan-two.isitdomain.com](http://vulkan-two.isitdomain.com)<br>[vulkan.isitdomain.com](http://vulkan.isitdomain.com) _old_|
+|![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com) _old_<br>[vulkan-two.isitdomain.com](http://vulkan-two.isitdomain.com)|
 |![](vu1.png)|MK1|[velkam4.casino](http://velkam4.casino) _old_|[vu1.isitdomain.com](http://vu1.isitdomain.com)|
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
