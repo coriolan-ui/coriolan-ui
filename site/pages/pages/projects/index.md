@@ -58,7 +58,7 @@ path: '/projects/'
 |![](vu1.png)|MK1|[velkam4.casino](https://velkam6.co)<br>[vu1-prod.isitdomain.com](http://vu1-prod.isitdomain.com)|[vu1.isitdomain.com](http://vu1.isitdomain.com)|
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
-|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)|[azarticon.isitdomain.com](http://azarticon.isitdomain.com)|
+|![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
 
 #### NeoCore1
 
