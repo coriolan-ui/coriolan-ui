@@ -1,4 +1,10 @@
-# Coriolan UI [![npm](https://img.shields.io/npm/v/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui) [![npm](https://img.shields.io/npm/dt/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+# Coriolan UI
+[![npm](https://img.shields.io/npm/v/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+[![npm](https://img.shields.io/npm/dt/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+[![npm](https://img.shields.io/npm/dv/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+[![npm](https://img.shields.io/npm/dm/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+[![npm](https://img.shields.io/npm/dy/coriolan-ui.svg)](https://www.npmjs.com/package/coriolan-ui)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://www.npmjs.com/package/coriolan-ui)
 
 _sass mixins pack_
 
