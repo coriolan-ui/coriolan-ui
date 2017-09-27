@@ -59,9 +59,10 @@ path: '/projects/'
 |![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
-||loto-run|---|---|
-||mk5-red|---|---|
-||ssl-7|---|---|
+||loto-run|[lotorun.com](http://lotorun.com)|---|
+||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
+||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
+||vipclub|---|---|
 
 #### NeoCore1
 
