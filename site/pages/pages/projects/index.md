@@ -50,7 +50,7 @@ path: '/projects/'
 |:---|:---|:---|:---|
 |![](lotoru.png)|Lara|[lotoru.club](http://lotoru.club)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)<br>[lara-two.isitdomain.com](http://lara-two.isitdomain.com)|
 |![](vabank.png)|Privat|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
-|![](vu3.png)|MK3|[velkam2.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
+|![](vu3.png)|MK3|[velkam3.club](https://velkam2.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
 |![](ssl.png)|SSL|[casinosuperslots.tv](https://casinosuperslots.tv)|[ssl.isitdomain.com](http://ssl.isitdomain.com)<br>[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
