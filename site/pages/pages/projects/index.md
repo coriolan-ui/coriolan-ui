@@ -56,7 +56,6 @@ path: '/projects/'
 |![](vu2.png)|MK2|[casino-velcam.com](http://casino-velcam.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](vu5.png)|MK5|[play-vulkan.com](https://play-vulkan.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)<br>[vulkan-two.isitdomain.com](http://vulkan-two.isitdomain.com)|
 |![](vu1.png)|MK1|[velkam4.casino](https://velkam6.co)<br>[vu1-prod.isitdomain.com](http://vu1-prod.isitdomain.com)|[vu1.isitdomain.com](http://vu1.isitdomain.com)|
-|![](korona.png)|Tron|[casinokorona.com](http://casinokorona.com) _old_|[korona.isitdomain.com](http://korona.isitdomain.com)|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
@@ -75,7 +74,6 @@ path: '/projects/'
 
 |Logo|Name|Production|
 |:---|:---|:---|
-|![](vu1.png)|MK1|[velkam4.casino](http://velkam4.casino)|
 |![](gaminator.png)|Geiminator|[geiminator.win](http://geiminator.win)|
 |![](igrun.png)|Igrun|[igrun.live](http://igrun.live)|
 
