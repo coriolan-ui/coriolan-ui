@@ -56,8 +56,8 @@ path: '/projects/'
 |![](vu3.png)|MK3|[velkam3.club](https://velkam3.club)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](vabank.png)|Privat|[va-bank.com](https://va-bank.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](gms.png)|NFS|[gmslots24.co](https://gmslots24.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
-|![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
+|![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
 ||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
 ||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
