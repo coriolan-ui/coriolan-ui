@@ -61,7 +61,7 @@ path: '/projects/'
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
 ||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
 ||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
-||vipclub|---|[https://vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
+||vipclub|---|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
 
 #### NeoCore1
 
