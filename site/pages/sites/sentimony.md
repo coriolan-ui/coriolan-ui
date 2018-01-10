@@ -5,7 +5,7 @@ title: 'Sentimony Records'
 layout: post
 category: site
 siteUrl: https://sentimony.com
-sourceUrl: https://github.com/sentimony/sentimony-jekyll
+sourceUrl: https://github.com/sentimony/sentimony-nuxt
 ---
 
 Web development of Sentimony Records site
