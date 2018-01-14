@@ -48,11 +48,11 @@ path: '/projects/'
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](vu5.png)|MK5|[vulcandelux.club](https://vulcandelux.club)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)<br>[vulkan-two.isitdomain.com](http://vulkan-two.isitdomain.com)|
-|![](vu1.png)|MK1|[velkam-casino1.com](https://velkam-casino1.com)<br>[vu1-prod.isitdomain.com](http://vu1-prod.isitdomain.com)|[vu1.isitdomain.com](http://vu1.isitdomain.com)|
+|![](vu5.png)|MK5|[vulcandeluxe.com](https://vulcandeluxe.com)|[vulkan.isitdomain.com](http://vulkan.isitdomain.com)<br>[vulkan-two.isitdomain.com](http://vulkan-two.isitdomain.com)|
+|![](vu1.png)|MK1|[velkam-casino2.com](https://velkam-casino2.com)<br>[vu1-prod.isitdomain.com](http://vu1-prod.isitdomain.com)|[vu1.isitdomain.com](http://vu1.isitdomain.com)|
 |![](ssl.png)|SSL|[sslcasino.org](https://sslcasino.org)|[ssl.isitdomain.com](http://ssl.isitdomain.com)<br>[ssl-two.isitdomain.com](http://ssl-two.isitdomain.com)|
 |![](lotoru.png)|Lara|[lotorupro.com](http://lotorupro.com)|[lotoru.isitdomain.com](http://lotoru.isitdomain.com)<br>[lara-two.isitdomain.com](http://lara-two.isitdomain.com)|
-|![](vu2.png)|MK2|[casino-velkam19.com](http://casino-velkam19.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
+|![](vu2.png)|MK2|[casino-velkam18.com](http://casino-velkam18.com)|[vu2.isitdomain.com](http://vu2.isitdomain.com)|
 |![](vu3.png)|MK3|[velkam-club.net](https://velkam-club.net)|[vu3.isitdomain.com](http://vu3.isitdomain.com)|
 |![](vabank.png)|Privat|[va-bank9.com](https://va-bank9.com)|[vabank.isitdomain.com](http://vabank.isitdomain.com)|
 |![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)|[gms.isitdomain.com](http://gms.isitdomain.com)|
