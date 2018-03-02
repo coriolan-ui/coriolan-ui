@@ -46,7 +46,7 @@
     "webpack": "^1.13.1"
   },
   "scripts": {
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "build": "npm run clean & gatsby build & copy",
     "clean:public": "rm -rf public",
     "clean": "npm run clean:public",

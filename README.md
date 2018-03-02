@@ -35,7 +35,7 @@ _Web development of Coriolan UI site on GatsbyJS_
 
 `npm i`
 
-`npm run develop`
+`npm run dev`
 
 ### Deploy
 
