@@ -13,7 +13,7 @@ class Footer extends React.Component {
 
         return (
             <div className='footer'>
-                <div className='footer__copyright'>2015 - 2017 © { config.siteTitle }</div>
+                <div className='footer__copyright'>2015 - 2018 © { config.siteTitle }</div>
                 <div className='footer__powered'>
                     Powered by <a href='https://bbq.agency' className='footer__powered-link'>
                         <span>BBQ Agency</span>
