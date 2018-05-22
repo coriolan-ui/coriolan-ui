@@ -55,13 +55,15 @@ path: '/projects/'
 |![](vu2.png)|MK2|[casino-velkam18.com](http://casino-velkam18.com)<br>[vu2-release.isitdomain.com](http://vu2-release.isitdomain.com)|[vu2-stage1.isitdomain.com](https://vu2-stage1.isitdomain.com)|
 |![](vu3.png)|MK3|[velkam-club.net](https://velkam-club.net)<br>[vu3-release.isitdomain.com](https://vu3-release.isitdomain.com)|[vu3-stage1.isitdomain.com](https://vu3-stage1.isitdomain.com)|
 |![](vabank.png)|Privat|[va-bank9.com](https://va-bank9.com)<br>[vabank-release.isitdomain.com](http://vabank-release.isitdomain.com)|[vabank-stage1.isitdomain.com](https://vabank-stage1.isitdomain.com)|
-|![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)|
-|![](https://content.sentimony.com/assets/img/releases/small/sencd025/zymosis-insight.jpg)|VipClub|[vipclub-release.isitdomain.com](https://vipclub-release.isitdomain.com)|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd025/zymosis-insight.jpg)|VC1|[vipclub-release.isitdomain.com](https://vipclub-release.isitdomain.com)|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
+||VC2||[vipclub2-stage1.isitdomain.com](https://vipclub2-stage1.isitdomain.com)|
+||VC3||[vipclub3-stage1.isitdomain.com](https://vipclub3-stage1.isitdomain.com)|
 
 #### NeoCore2 Others
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
+|![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
@@ -88,4 +90,3 @@ path: '/projects/'
 |:---|:---|:---|:---|
 |![](ssl.png)|SSL|[probonusclub.ru](http://probonusclub.ru)|
 |![](lotofun.png)|LotoFun|[lotofun.club](http://lotofun.club)|
-
