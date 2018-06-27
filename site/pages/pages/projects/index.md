@@ -59,18 +59,18 @@ path: '/projects/'
 |![](https://content.sentimony.com/assets/img/releases/small/sencd026/overdream-beautiful-thinking.jpg)|VC2|[vipclub2-release.isitdomain.com](https://vipclub2-release.isitdomain.com)|[vipclub2-stage1.isitdomain.com](https://vipclub2-stage1.isitdomain.com)|
 |![](https://content.sentimony.com/assets/img/releases/small/sencd028/omnisound-destiny.jpg)|VC3|[vipclub3-release.isitdomain.com](https://vipclub3-release.isitdomain.com)|[vipclub3-stage1.isitdomain.com](https://vipclub3-stage1.isitdomain.com)|
 
-<!-- #### NeoCore2 Old & Others
+#### NeoCore2 Old & Others
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)|
 |![](azarticon.png)|Azarticon|[azarticon.com](http://azarticon.com)<br>[azarticon.isitdomain.com](http://azarticon-prod.isitdomain.com)<br>[azarticon-prod.isitdomain.com](http://azarticon.isitdomain.com)|---|
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
 ||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
 ||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
+<!-- |![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)| -->
 
-#### NeoCore1
+<!-- #### NeoCore1
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
