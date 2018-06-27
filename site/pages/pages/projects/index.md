@@ -68,9 +68,11 @@ path: '/projects/'
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
 ||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
 ||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
-<!--|![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)| -->
 
-<!-- #### NeoCore1
+<!--
+|![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)|
+
+#### NeoCore1
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
