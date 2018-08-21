@@ -48,6 +48,8 @@ path: '/projects/'
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd029/zymosis-nichna.jpg)|POBEDA|[pobeda-release.isitdomain.com](http://pobeda-release.isitdomain.com)|[pobeda-stage1.isitdomain.com](https://pobeda-stage1.isitdomain.com)|
+|||||
 |![](lotoru.png)|LARA|[lotorupro.com](http://lotorupro.com)<br>[lotoru-release.isitdomain.com](http://lotoru-release.isitdomain.com)|[lotoru-stage1.isitdomain.com](https://lotoru-stage1.isitdomain.com)<br>[lotoru-stage2.isitdomain.com](https://lotoru-stage2.isitdomain.com)|
 |![](https://content.sentimony.com/assets/img/releases/small/sencd025/zymosis-insight.jpg)|VC1|[vipclub-release.isitdomain.com](https://vipclub-release.isitdomain.com)|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
 |![](vu5.png)|MK5|[vulcandeluxe.com](https://vulcandeluxe.com)<br>[vulkan-release.isitdomain.com](http://vulkan-release.isitdomain.com)|[vulkan-stage1.isitdomain.com](https://vulkan-stage1.isitdomain.com)<br>[vulkan-stage2.isitdomain.com](https://vulkan-stage2.isitdomain.com)|
