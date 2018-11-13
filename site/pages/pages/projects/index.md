@@ -48,20 +48,20 @@ path: '/projects/'
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
-|![](https://content.sentimony.com/assets/img/releases/small/sencd029/zymosis-nichna.jpg)|POBEDA|[championslots.com](https://championslots.com)<br>[pobeda-release.isitdomain.com](http://pobeda-release.isitdomain.com)|[pobeda-stage1.isitdomain.com](https://pobeda-stage1.isitdomain.com)|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd029/zymosis-nichna.jpg)|POBEDA|[championslots.com](https://championslots.com)<br>[pobeda-release.isitdomain.com](http://pobeda-release.isitdomain.com)|[pobeda-stage1.isitdomain.com](https://pobeda-stage1.isitdomain.com)<br>[pobeda-stage2.isitdomain.com](https://pobeda-stage2.isitdomain.com)<br>[pobeda-stage3.isitdomain.com](https://pobeda-stage3.isitdomain.com)|
 |||||
 |![](lotoru.png)|LARA|[lotorupro.com](http://lotorupro.com)<br>[lotoru-release.isitdomain.com](http://lotoru-release.isitdomain.com)|[lotoru-stage1.isitdomain.com](https://lotoru-stage1.isitdomain.com)<br>[lotoru-stage2.isitdomain.com](https://lotoru-stage2.isitdomain.com)|
-|![](https://content.sentimony.com/assets/img/releases/small/sencd025/zymosis-insight.jpg)|VC1|[vipclub-release.isitdomain.com](https://vipclub-release.isitdomain.com)|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd025/zymosis-insight.jpg)|VC1|[vipclub-release.isitdomain.com](https://vipclub-release.isitdomain.com)|[vipclub-stage1.isitdomain.com](https://vipclub-stage1.isitdomain.com)<br>[vipclub-stage2.isitdomain.com](https://vipclub-stage2.isitdomain.com)|
 |![](vu5.png)|MK5|[vulcandeluxe.com](https://vulcandeluxe.com)<br>[vulkan-release.isitdomain.com](http://vulkan-release.isitdomain.com)|[vulkan-stage1.isitdomain.com](https://vulkan-stage1.isitdomain.com)<br>[vulkan-stage2.isitdomain.com](https://vulkan-stage2.isitdomain.com)|
-|![](vu1.png)|MK1|[velkam-casino4.com](https://velkam-casino4.com)<br>[vu1-release.isitdomain.com](http://vu1-release.isitdomain.com)|[vu1-stage1.isitdomain.com](https://vu1-stage1.isitdomain.com)|
+|![](vu1.png)|MK1|[velkam-casino4.com](https://velkam-casino4.com)<br>[vu1-release.isitdomain.com](http://vu1-release.isitdomain.com)|[vu1-stage1.isitdomain.com](https://vu1-stage1.isitdomain.com)<br>[vu1-stage2.isitdomain.com](https://vu1-stage2.isitdomain.com)|
 |![](ssl.png)|SSL|[sslcasino.org](https://sslcasino.org)<br>[ssl-release.isitdomain.com](http://ssl-release.isitdomain.com)|[ssl-stage1.isitdomain.com](https://ssl-stage1.isitdomain.com)<br>[ssl-stage2.isitdomain.com](https://ssl-stage2.isitdomain.com)|
-|![](vu2.png)|MK2|[casino-velkam18.com](http://casino-velkam18.com)<br>[vu2-release.isitdomain.com](http://vu2-release.isitdomain.com)|[vu2-stage1.isitdomain.com](https://vu2-stage1.isitdomain.com)|
-|![](vu3.png)|MK3|[velkam-club.net](https://velkam-club.net)<br>[vu3-release.isitdomain.com](https://vu3-release.isitdomain.com)|[vu3-stage1.isitdomain.com](https://vu3-stage1.isitdomain.com)|
-|![](vabank.png)|PRIVAT|[va-bank9.com](https://va-bank9.com)<br>[vabank-release.isitdomain.com](http://vabank-release.isitdomain.com)|[vabank-stage1.isitdomain.com](https://vabank-stage1.isitdomain.com)|
-|![](https://content.sentimony.com/assets/img/releases/small/sencd026/overdream-beautiful-thinking.jpg)|VC2|[vipclub2-release.isitdomain.com](https://vipclub2-release.isitdomain.com)|[vipclub2-stage1.isitdomain.com](https://vipclub2-stage1.isitdomain.com)|
-|![](https://content.sentimony.com/assets/img/releases/small/sencd028/omnisound-destiny.jpg)|VC3|[vipclub3-release.isitdomain.com](https://vipclub3-release.isitdomain.com)|[vipclub3-stage1.isitdomain.com](https://vipclub3-stage1.isitdomain.com)|
+|![](vu2.png)|MK2|[casino-velkam18.com](http://casino-velkam18.com)<br>[vu2-release.isitdomain.com](http://vu2-release.isitdomain.com)|[vu2-stage1.isitdomain.com](https://vu2-stage1.isitdomain.com)<br>[vu2-stage2.isitdomain.com](https://vu2-stage2.isitdomain.com)|
+|![](vu3.png)|MK3|[velkam-club.net](https://velkam-club.net)<br>[vu3-release.isitdomain.com](https://vu3-release.isitdomain.com)|[vu3-stage1.isitdomain.com](https://vu3-stage1.isitdomain.com)<br>[vu3-stage2.isitdomain.com](https://vu3-stage2.isitdomain.com)|
+|![](vabank.png)|PRIVAT|[va-bank9.com](https://va-bank9.com)<br>[vabank-release.isitdomain.com](http://vabank-release.isitdomain.com)|[vabank-stage1.isitdomain.com](https://vabank-stage1.isitdomain.com)<br>[vabank-stage2.isitdomain.com](https://vabank-stage2.isitdomain.com)|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd026/overdream-beautiful-thinking.jpg)|VC2|[vipclub2-release.isitdomain.com](https://vipclub2-release.isitdomain.com)|[vipclub2-stage1.isitdomain.com](https://vipclub2-stage1.isitdomain.com)<br>[vipclub2-stage2.isitdomain.com](https://vipclub2-stage2.isitdomain.com)|
+|![](https://content.sentimony.com/assets/img/releases/small/sencd028/omnisound-destiny.jpg)|VC3|[vipclub3-release.isitdomain.com](https://vipclub3-release.isitdomain.com)|[vipclub3-stage1.isitdomain.com](https://vipclub3-stage1.isitdomain.com)<br>[vipclub3-stage2.isitdomain.com](https://vipclub3-stage2.isitdomain.com)|
 
-#### NeoCore2 Old & Others
+<!-- #### NeoCore2 Old & Others
 
 |Logo|Name|Production|Stage|
 |:---|:---|:---|:---|
@@ -69,7 +69,7 @@ path: '/projects/'
 |![](lotofun.png)|LotoFun|[lotofun.net](http://lotofun.net)|[lotofun.isitdomain.com](http://lotofun.isitdomain.com)|
 ||loto-run|[lotorun.com](http://lotorun.com)|---|
 ||mk5-red|[redvulkan.com](http://redvulkan.com)|---|
-||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---|
+||ssl-7|[supersevenslots.com](http://supersevenslots.com)|---| -->
 
 <!--
 |![](gms.png)|NFS|[vulkanplatinum.co](https://vulkanplatinum.co)<br>[gms-release.isitdomain.com](http://gms-release.isitdomain.com)|[gms-stage1.isitdomain.com](https://gms-stage1.isitdomain.com)|
