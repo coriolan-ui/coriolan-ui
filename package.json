@@ -3,14 +3,7 @@
   "version": "0.1.20",
   "description": "Coriolan UI - sass mixins pack",
   "homepage": "https://coriolan-ui.github.io",
-  "author": "BBQ Agency",
-  "contributors": [
-    "Ihor Orlovskyi <ihororlovskyi@gmail.com> (http://ihororlovskyi.com/)",
-    "E Koval <xxx@xxx.xxx>",
-    "I Sorokopud <xxx@xxx.xxx>",
-    "E Pravednikov <epravednikov@gmail.com>",
-    "Dariia Komashchuk <d.komaschuk@gmail.com>"
-  ],
+  "author": "Ihor Orlovskyi <ihororlovskyi@gmail.com> (https://sentimony.com/)",
   "license": "MIT",
   "main": "coriolan-ui.js",
   "keywords": [
